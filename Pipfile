@@ -7,6 +7,10 @@ name = "pypi"
 django = "*"
 heroku = "*"
 gunicorn = "*"
+firebase = "*"
+requests = "*"
+firebase-admin = "*"
+
 
 [dev-packages]
 flake8 = "*"
