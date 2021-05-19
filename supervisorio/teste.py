@@ -75,7 +75,7 @@ def conecta_e_exibe():
 
 
 if __name__ == '__main__':
-
+    quickstart_new_instance()
     quickstart_add_data_one()
     quickstart_add_data_two()
     quickstart_get_collection()
